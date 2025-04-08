@@ -1,9 +1,9 @@
-# Science des données - Appareils de Contrôle Technique (Partie 2 : Classifications)
+# Science des données - Appareils de Contrôle Technique (Partie 3 : Classifications)
 
 ## ➡️ Description
-Dans cette partie du projet, j'entraîne des modèles de régression supervisée en machine learning afin de prédire le nombre d'utilisations d'un appareil de contrôle technique avant qu'il ne devienne défectueux. En d'autres termes, je cherche à estimer la durée de vie des appareils de contrôle technique en fonction de leur nombre d'utilisations.
+Dans cette partie du projet, j'entraîne des modèles de classification supervisée en machine learning afin de classer les appareils de contrôle technique entre opérationnel et non opérationnel. En d'autres termes, je cherche à estimer quels sont les appareils de contrôle technique encore opérationnel en fonction de leur nombre d'utilisations et des facteurs climatiques.
 
-Ce projet personnel se poursuit avec une troisième partie consacrée à la classification, ainsi qu'une quatrième partie dédiée au clustering.
+Ce projet personnel se poursuit avec une quatrième partie consacrée au clustering, ainsi qu'une cinquième partie dédiée à l'analyse temporelle.
 
 ## 🛠 Outils
 - Python
